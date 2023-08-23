@@ -1,0 +1,14 @@
+Follow the instruction to run the project:
+
+1. Open CMD or terminal on the project and run 'npm install' command
+2. Then run 'npm start' command
+3. Next go to browser and write 'http://localhost:3000/action.html' in browser address bar. 
+
+That's it. Feel free to reach me for any question. I will be happy to guide you. 
+
+Thanks & Greetings from
+Pruthvi Raj G N
+IIT Guwahatti
+CSE
+
+Happy learning!
